@@ -1,5 +1,4 @@
 FROM ubuntu:focal
-LABEL maintainer="myoung34@my.apsu.edu"
 
 ARG GIT_VERSION="2.29.0"
 ARG DUMB_INIT_VERSION="1.2.2"
